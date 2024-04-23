@@ -5,7 +5,7 @@ This repository contains Python scripts for training a neural network model to p
 
 Pollution prediction is crucial for environmental monitoring and public health management. By accurately forecasting pollution levels, authorities can take timely measures to mitigate the impact on air quality and human health.
 
-This project was initiated during the Smart City Hackathon in Heilbronn in November 2023, with the aim of developing innovative solutions for urban sustainability and environmental monitoring.
+This project was initiated in 48 hours during the Smart City Hackathon in Heilbronn in November 2023, with the aim of developing innovative solutions for urban sustainability and environmental monitoring.
 
 ## Files
 - **data.csv**: CSV file containing historical pollution data. It includes columns for timestamps and various pollution-related features such as main_aqi, co, no, no2, o3, so2, pm2_5, and pm10.
