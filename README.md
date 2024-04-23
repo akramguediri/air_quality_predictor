@@ -28,5 +28,5 @@ This project was initiated during the Smart City Hackathon in Heilbronn in Novem
 - Explore additional features or external factors (e.g., weather data, geographical information) that may influence pollution levels and incorporate them into the model for improved accuracy.
 - Fine-tune hyperparameters and optimize the model architecture to achieve better performance and generalization on unseen data.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+## Note
+This is only one part of the project, the other parts (ui, Database, etc) are made by the other team members in the hackathon.
